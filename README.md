@@ -4,8 +4,8 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/NGame1/NGame1?style=for-the-badge&logo=markdown&label=LAST+UPDATE&color=blue">
 <img alt="MSLove" src="https://img.shields.io/badge/Microsoft-%E2%99%A1-yellow?style=for-the-badge&logo=Microsoft"/>
 
-I'm .NET developer from Earth.
-I'm developing Windows apps and games at most using UWP, WPF, Unity, Maui and, WinUI.
+I'm a .NET developer from Earth.
+I developed some Windows apps and games at most using UWP, WPF, Unity, Maui and, WinUI.
 
  - 📚 Learning .NET Maui
 

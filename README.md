@@ -20,4 +20,5 @@ I developed some Windows apps and games at most using UWP, WPF, Unity, Maui and,
 ![WPF](https://img.shields.io/badge/-WPF-orange?style=for-the-badge&logo=Windows)
 ![UWP](https://img.shields.io/badge/-UWP-brightgreen?style=for-the-badge&logo=Windows) 
 ![Unity](https://img.shields.io/badge/-.Unity-orange?style=for-the-badge&logo=unity)
+![Maui](https://img.shields.io/badge/-.Maui-red?style=for-the-badge&logo=maui)
 ![WINUI](https://img.shields.io/badge/-WINUI-yellow?style=for-the-badge&logo=Windows)

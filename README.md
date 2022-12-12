@@ -5,7 +5,7 @@
 <img alt="MSLove" src="https://img.shields.io/badge/Microsoft-%E2%99%A1-yellow?style=for-the-badge&logo=Microsoft"/>
 
 I'm .NET developer from Iran.
-I focused on developing Windows apps and games at most using UWP, WPF, Unity, Maui and, WinUI.
+Iam developing Windows apps and games at most using UWP, WPF, Unity, Maui and, WinUI.
 
  - 📚 Learning .NET Maui
 

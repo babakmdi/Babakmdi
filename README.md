@@ -4,11 +4,10 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/NGame1/NGame1?style=for-the-badge&logo=markdown&label=LAST+UPDATE&color=blue">
 <img alt="MSLove" src="https://img.shields.io/badge/Microsoft-%E2%99%A1-yellow?style=for-the-badge&logo=Microsoft"/>
 
-I'm Babak Moghaddasi, .NET developer from Iran.
+I'm .NET developer from Iran.
 I focused on developing Windows apps and games at most using UWP, WPF, Unity, Maui and, WinUI.
 
  - 📚 Learning .NET Maui
-- 🔥 Personality: 
 
 ## 🛠️ Languages & Tools
 ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-blueviolet?style=for-the-badge&logo=visualstudio)
